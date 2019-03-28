@@ -1,0 +1,6 @@
+c:\users\mka\documents\visual studio 2012\Projects\Kalitim\Kalitim\bin\Debug\Kalitim.exe.config
+c:\users\mka\documents\visual studio 2012\Projects\Kalitim\Kalitim\bin\Debug\Kalitim.exe
+c:\users\mka\documents\visual studio 2012\Projects\Kalitim\Kalitim\bin\Debug\Kalitim.pdb
+c:\users\mka\documents\visual studio 2012\Projects\Kalitim\Kalitim\obj\Debug\Kalitim.csprojResolveAssemblyReference.cache
+c:\users\mka\documents\visual studio 2012\Projects\Kalitim\Kalitim\obj\Debug\Kalitim.exe
+c:\users\mka\documents\visual studio 2012\Projects\Kalitim\Kalitim\obj\Debug\Kalitim.pdb
